@@ -1,0 +1,17 @@
+{
+  "app": [
+    {
+      "pid":"com.didikee.gifparser",
+      "version":"1.5.0",
+      "time":1529047368,
+      "update":""
+    },
+    {
+      "pid":"com.magnet.torrent.cat",
+      "version":"1.1.0",
+      "time":1529047368,
+      "update":""
+    }
+  ],
+  "version": 1
+}
